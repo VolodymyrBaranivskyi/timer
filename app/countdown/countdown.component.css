@@ -1,0 +1,13 @@
+p {
+  font-family: Lato;
+}
+
+.wrapper {
+  max-width: 160px;
+  align-content: center;
+}
+#time {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
